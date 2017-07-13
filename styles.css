@@ -1,0 +1,49 @@
+body {
+  background:red;
+  border: 10px solid black;
+}
+
+.important {
+  font-size: 40px
+}
+
+#profile-photo {
+  border-radius: 30%;
+  position: absolute;
+  top: 0;
+  left: 70%;
+}
+
+
+h1, h2 {
+  text-decoration: underline;
+  color: black;
+}
+
+section {
+  background: white;
+  padding:16px;
+  margin:16px;
+  border: 8px dashed purple;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px gray;
+}
+
+header {
+position: fixed;
+padding: 20px;
+width: 100%;
+}
+
+a {
+  display: block;
+}
+
+a:hover {
+color: purple;
+}
+
+img:hover{
+transform: rotateZ(1080deg);
+transform-origin: 50% 50%;
+}

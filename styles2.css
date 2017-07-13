@@ -1,0 +1,31 @@
+body {
+  background:red;
+  border: 10px solid black;
+}
+
+
+
+#profile-photo {
+  border-radius: 30%;
+  position: absolute;
+  top: 0;
+  left: 70%;
+}
+
+
+
+
+
+
+
+header {
+  background: white;
+}
+
+a {
+  display: block;
+}
+
+a:hover {
+color: purple;
+}
